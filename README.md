@@ -53,6 +53,34 @@ e. Dataset Pemilu KPU (Klasifikasi)
   ![image](https://user-images.githubusercontent.com/105371183/197808002-fcb3e2de-5f26-4712-8495-9c966d4679cd.png)
 
   ![image](https://user-images.githubusercontent.com/105371183/197805484-5ef50122-c01d-4644-947b-83454d8b1105.png)
+ 
+ f. Dataset Heating Oil (Asosiasi, Estimasi)
+  - Sample Dataset dengan Algoritma Corelation MAtrix
+  ![image](https://user-images.githubusercontent.com/105371183/197810216-5790ea69-a6f8-418e-bc6e-4ecd80086d84.png)
+  
+  - Dataset
+  ![image](https://user-images.githubusercontent.com/105371183/197810531-8adfef95-7e53-4679-bbbe-4e4e84b1d7a7.png)
+
+  - Pola/Model
+  ![image](https://user-images.githubusercontent.com/105371183/197810745-2ef8a164-9e25-4941-8787-0e8507401534.png)
+  
+  ![image](https://user-images.githubusercontent.com/105371183/197812198-e42938f6-0619-48cb-864e-2ddc707fc7db.png)
+
+ g. Dataset Transaksi (Asosiasi)
+  - Sample Dataset dengan Algoritma FP-Growth
+  ![image](https://user-images.githubusercontent.com/105371183/197816841-47a32237-9852-4aa7-90a5-12a5c139373b.png)
+  
+  - Dataset
+  ![image](https://user-images.githubusercontent.com/105371183/197817060-76063e9a-4ed4-40bc-ab8d-9394ed361124.png)
+
+  - Pola/Model
+  ![image](https://user-images.githubusercontent.com/105371183/197817223-4af21b45-1261-4096-b46e-b921180adfb5.png)
+  
+ h. Dataset Harga Saham (Forecasting, Uni dan Multi)
+  - Sample Dataset dengan Algoritma Neural Net
+  - Dataset
+  - Pola/Model
+
   
   
   
