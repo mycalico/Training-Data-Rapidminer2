@@ -10,3 +10,4 @@ b. Dataset Iris (Klasifikasi - Decision Tree)
   ![image](https://user-images.githubusercontent.com/105371183/197684163-c5718ead-b9dd-445c-873b-34d7ce52e8d6.png)
 
 c. Dataset Iris (Klastering - K- Means)
+  ![image](https://user-images.githubusercontent.com/105371183/197687902-3c906eb3-08e5-4abf-bfe6-b91fc81a7418.png)
