@@ -78,8 +78,14 @@ e. Dataset Pemilu KPU (Klasifikasi)
   
  h. Dataset Harga Saham (Forecasting, Uni dan Multi)
   - Sample Dataset dengan Algoritma Neural Net
+  ![image](https://user-images.githubusercontent.com/105371183/197822615-37703d35-090b-4818-82a7-7db54da6893d.png)
+
   - Dataset
+  ![image](https://user-images.githubusercontent.com/105371183/197822718-2a5872ee-9e9d-4460-90c1-9d4e1f3b629d.png)
+
   - Pola/Model
+  ![image](https://user-images.githubusercontent.com/105371183/197822847-891fdb6c-a12d-4177-ad67-ac140a8a71a8.png)
+
 
   
   
