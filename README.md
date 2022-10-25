@@ -44,7 +44,18 @@ d. Dataset CPU (Estimasi)
 
 e. Dataset Pemilu KPU (Klasifikasi)
   - Sample Dataset dengan Algoritma Decision Tree
+  ![image](https://user-images.githubusercontent.com/105371183/197806176-f0c04bfd-d412-4380-a676-b56c887af2cb.png)
+
   - Dataset
+  ![image](https://user-images.githubusercontent.com/105371183/197806902-16cc24b3-ceee-44dc-9cf4-84e0e46a1b5a.png)
+
   - Pola/Model
+  ![image](https://user-images.githubusercontent.com/105371183/197805484-5ef50122-c01d-4644-947b-83454d8b1105.png)
+  
+  
+  
+  
+
+
  
 
