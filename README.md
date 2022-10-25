@@ -50,6 +50,8 @@ e. Dataset Pemilu KPU (Klasifikasi)
   ![image](https://user-images.githubusercontent.com/105371183/197806902-16cc24b3-ceee-44dc-9cf4-84e0e46a1b5a.png)
 
   - Pola/Model
+  ![image](https://user-images.githubusercontent.com/105371183/197808002-fcb3e2de-5f26-4712-8495-9c966d4679cd.png)
+
   ![image](https://user-images.githubusercontent.com/105371183/197805484-5ef50122-c01d-4644-947b-83454d8b1105.png)
   
   
