@@ -37,17 +37,17 @@ c. Dataset Iris (Klastering )
 
 d. Dataset CPU (Estimasi)
   - Sample Dataset dengan Algoritma Linear regression
-  ![image](https://user-images.githubusercontent.com/105371183/197800466-a4c4c971-dddb-401e-aa01-6894fe29230a.png)
+  ![image](https://user-images.githubusercontent.com/105371183/197800333-a30fbc16-9e4b-4f7b-9290-e54d9ebb30a3.png)
 
   - Dataset
-  ![image](https://user-images.githubusercontent.com/105371183/197800333-a30fbc16-9e4b-4f7b-9290-e54d9ebb30a3.png)
+  ![image](https://user-images.githubusercontent.com/105371183/197800466-a4c4c971-dddb-401e-aa01-6894fe29230a.png)
 
 e. Dataset Pemilu KPU (Klasifikasi)
   - Sample Dataset dengan Algoritma Decision Tree
-  ![image](https://user-images.githubusercontent.com/105371183/197806902-16cc24b3-ceee-44dc-9cf4-84e0e46a1b5a.png)
+  ![image](https://user-images.githubusercontent.com/105371183/197806176-f0c04bfd-d412-4380-a676-b56c887af2cb.png)
 
   - Dataset
-  ![image](https://user-images.githubusercontent.com/105371183/197806176-f0c04bfd-d412-4380-a676-b56c887af2cb.png)
+  ![image](https://user-images.githubusercontent.com/105371183/197806902-16cc24b3-ceee-44dc-9cf4-84e0e46a1b5a.png)
 
   - Pola/Model
   ![image](https://user-images.githubusercontent.com/105371183/197808002-fcb3e2de-5f26-4712-8495-9c966d4679cd.png)
